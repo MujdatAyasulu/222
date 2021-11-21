@@ -1,0 +1,6 @@
+import random as rd
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+from matplotlib import style
+from scipy.integrate import odeint
+from thermo.chemical import Chemical
